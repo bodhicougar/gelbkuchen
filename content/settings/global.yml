@@ -1,8 +1,10 @@
 siteTitle: Gelbkuchen von yellowcake
 siteUrl: 'https://gelbkuchen.netlify.com/'
 siteDescription: >-
-  A starter project for creating lightning-fast websites with Gatsby v2 Netlify
-  CMS v2 and Uploadcare media library.
+  Der Tech Blog der BlackBoxMediaDesign
+
+  Original: A starter project for creating lightning-fast websites with Gatsby
+  v2 Netlify CMS v2 and Uploadcare media library.
 socialMediaCard:
-  image: 'https://ucarecdn.com/fcc8d148-a9a8-42ee-a793-0f12b1437f61/'
-googleTrackingId: UA-128502358-1
+  image: 'https://ucarecdn.com/8b4dd3ca-c3cd-47b3-9291-32ddb4c469d4/'
+googleTrackingId: UA-128502358-3

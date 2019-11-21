@@ -3,16 +3,16 @@ template: ContactPage
 slug: contact
 title: Kontaktseite
 featuredImage: 'https://ucarecdn.com/e22a858a-b420-47af-99f6-ed54b6860333/'
-subtitle: This is the contact page subtitle.
+subtitle: Lassen Sie uns eine Nachricht zukommen.
 address: |-
   Artur Lind Building
   Sepapaja 6, 11415 Tallinn, Estland
 phone: '+3728840380'
-email: contact@bbmediadesign.net
+email: info@blackboxmd.fyi
 locations:
-  - lat: ''
-    lng: ''
-    mapLink: 'https://goo.gl/maps/m1SFG6H6epZD9E9x7'
+  - lat: '59.4207203'
+    lng: '24.8031186'
+    mapLink: 'https://goo.gl/maps/ipTWBkmZ2FnpzLyY6'
 meta:
   description: This is a meta description.
   title: Kontaktseite
